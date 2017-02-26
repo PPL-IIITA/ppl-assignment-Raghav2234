@@ -12,7 +12,7 @@ Note: All the codes submitted are tested on  only openjdk version "1.8.0_121"
 >bash q2_main.sh        (in folder Q2 for Question 2)<br />
 
 ##Class Diagrams:
->Class Diagram can be found in respactive folder
+>Class Diagram can be found in respective folder
 
 ##Documentation :
 >Documentation of each question can be found in the respective folder of the question
