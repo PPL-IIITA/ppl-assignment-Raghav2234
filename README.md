@@ -8,8 +8,8 @@ ppl-assignment-raghav created by GitHub Classroom <br />
 
 ##Command for Terminal in Linux:
 Note: All the codes submitted are tested on  only openjdk version "1.8.0_121"
->bash ques1.sh        (in folder Q1, for Question 1)<br />
->bash q2_main.sh        (in folder Q2 for Question 2)<br />
+>bash runq1.sh        (in folder Q1, for Question 1)<br />
+>bash runq2.sh        (in folder Q2 for Question 2)<br />
 
 ##Class Diagrams:
 >Class Diagram can be found in respective folder
