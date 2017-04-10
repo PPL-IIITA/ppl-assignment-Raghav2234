@@ -1,0 +1,7 @@
+To Build run 
+>> javac main_4.java
+
+
+To execute, make sure you have to build the file first.
+then run command
+>> java main_4
