@@ -11,6 +11,7 @@ Note: All the codes submitted are tested on  only openjdk version "1.8.0_121"
 >bash runq1.sh        (in folder Q1, for Question 1)<br />
 >bash runq2.sh        (in folder Q2 for Question 2)<br />
 
+For all the furthur questions use Howtobuild.txt present in respective folder
 ##Class Diagrams:
 >Class Diagram can be found in respective folder
 
