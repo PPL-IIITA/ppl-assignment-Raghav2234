@@ -104,5 +104,6 @@ public class main_q3 {
 			}
 			Logger lg = new Logger();
 			lg.log(content);
+			System.out.println(content);
 		}
 }
